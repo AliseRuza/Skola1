@@ -33,7 +33,7 @@ nav {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  background: #ccc;
+  background-image:url('images/skola.jpg');
   padding: 20px;
 }
 
@@ -85,7 +85,7 @@ parent {
 
 <section>
  Satura rādītājs  
-  <nav style="background-image:url('skola.jpg');">
+  <nav>
     <ol>
       <li><a href="#vesture">Vēsture</a></li>
       <li><a href="#nosaukumi">Skolas nosaukumu maiņas</a></li>
