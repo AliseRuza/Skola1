@@ -134,6 +134,7 @@ footer {
     <p>1780.—1787. </p>
     <p>no 1788. </p>
     <p>līdz 1804. </p>
+	</div>
 	<div class="collumn" style="background colour:#aaa;">
 	<h2> Personas </h2>
 	<p>mācību pārzinis (scholasticus) Domkapitula kanoniķis Heinrihs</p>
@@ -151,7 +152,7 @@ footer {
 	<p>rektors Karls Filips Mihaels Snells</p>
 	<p>rektors Kārlis Gotlobs Zontāgs</p>
 	<p>rektors Johans Augusts Albanuss</p>
-	
+	</div>
 <footer>
   <p>Footer</p>
 </footer>
