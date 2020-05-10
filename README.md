@@ -198,7 +198,7 @@ parent {
 	<p><a href="https://enciklopedija.lv/skirklis/55869-Rainis">Uzzini vairāk par Raini ŠEIT</a></p>
 <footer>
   <p><a href="http://r1g.edu.lv/v/index/">
-  <img src="C:\Users\Dace\Documents\GitHub\Skola\images\skola.jpg.jpg" alt="saite" style="width:42px;height:42px;border:0;">
+  <img src="images\skola.jpg.jpg" alt="saite" style="width:42px;height:42px;border:0;">
 </a>
 </p>
 </footer>
