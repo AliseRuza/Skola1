@@ -58,8 +58,16 @@ footer {
   padding: 10px;
   text-align: center;
   color: white;
+  clear:both;
+  margin-left:4px;
+  margin-right:4px;
+  height:4em
 }
-
+parent {
+   min-height:100%;
+   position:relative;
+   margin:0 20px 4em
+   }
 /* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
 @media (max-width: 600px) {
   section {
@@ -183,7 +191,6 @@ footer {
 	<td>rektors Johans Augusts Albanuss</td>
 	</tr>
 	<tr>
-	</article>
 <footer>
   <p>Footer</p>
 </footer>
