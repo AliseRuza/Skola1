@@ -197,5 +197,8 @@ parent {
 	<p>Viens no ievērojamākajiem latviešu literātiem, dzejnieks un dramaturgs. Īstajā vārdā Jānis Pliekšāns. Dzimis 1865. gada 11. septembrī Dunavas pagasta Varslavānos, miris 1929. gada 12. septembrī Majoros, Jūrmalā, apbedīts 15. septembrī Rīgā, Rīgas jaunajos kapos, kas vēlāk nosaukti Raiņa vārdā.</p>
 	<p><a href="https://enciklopedija.lv/skirklis/55869-Rainis">Uzzini vairāk par Raini ŠEIT</a></p>
 <footer>
-  <p>Footer</p>
+  <p><a href="http://r1g.edu.lv/v/index/">
+  <img src="images/skola.jpg" alt="saite" style="width:42px;height:42px;border:0;">
+</a>
+</p>
 </footer>
