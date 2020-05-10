@@ -1,5 +1,4 @@
 # Skola
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>CSS Template</title>
@@ -76,7 +75,7 @@ footer {
 </header>
 
 <section>
-Satura rādītājs
+<h1> Satura rādītājs </h1>
   <nav>
     <ul>
       <li><a href="#">Vēsture</a></li>
@@ -118,12 +117,7 @@ Satura rādītājs
 	<li> 1990.—1996. — Rīgas 1. ģimnāzija </li>
 	<li> 1996.—pašlaik — Rīgas Valsts 1. ģimnāzija </li>
 	</ul>
- </article>
-</section>
 
 <footer>
   <p>Footer</p>
 </footer>
-
-</body>
-</html>
