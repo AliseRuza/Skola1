@@ -117,42 +117,45 @@ footer {
 	<li> 1996.—pašlaik — Rīgas Valsts 1. ģimnāzija </li>
 	</ul>
     <div><h1>Zināmie skolas vadītāji (1229—1804)</h1> </div>
-	<div class="collumn">
-	<h2> Laiks </h2>
-	<p> ap 1239. </p>
-    <p>1528.—1538. </p>
-    <p>no 1538. </p>
-    <p>1554.—1561. </p>
-    <p>ap 1576. </p>
-    <p>1579.—1589. </p>
-    <p>1589.—1596. </p>
-    <p>no 1631. </p>
-    <p>no 1669. </p>
-    <p>no 1681. </p>
-    <p>1755.—1765. </p>
-    <p>1765.—1780. </p>
-    <p>1780.—1787. </p>
-    <p>no 1788. </p>
-    <p>līdz 1804. </p>
-	</div>
-	<div class="collumn" style="background colour:#aaa;">
-	<h2> Personas </h2>
-	<p>mācību pārzinis (scholasticus) Domkapitula kanoniķis Heinrihs</p>
-	<p>rektors Jakobs Batuss (Jacobus Battus, miris 1546)</p>
-	<p>rektors Retgers Pistorijs (Bekers)</p>
-	<p>rektors Hermanis Vilkens (Vilikinds, Vitekinds)</p>
-	<p>rektors Georgs Marsovs</p>
-	<p>rektors Heinrihs Mellers</p>
-	<p>rektors un inspektors Johans Rīvijs</p>
-	<p>ģimnāzijas inspektors Hermanis Samsons</p>
-	<p>rektors Georgs Lauterbahs</p>
-	<p>rektors Mihaels Pinsderfers (Pinsdörffer)</p>
-	<p>rektors un inspektors Johans Gothelfs Lindners</p>
-	<p>rektors Gotlībs Šlēgels</p>
-	<p>rektors Karls Filips Mihaels Snells</p>
-	<p>rektors Kārlis Gotlobs Zontāgs</p>
-	<p>rektors Johans Augusts Albanuss</p>
-	</div>
+	<table>
+	<tr>
+    <th>Laiks</th>
+    <th>Personas</th>
+  </tr>
+	<tr>
+	<td> ap 1239. </td>
+    <td>1528.—1538. </td>
+    <td>no 1538. </td>
+    <td>1554.—1561. </td>
+    <td>ap 1576. </td>
+    <td>1579.—1589. </td>
+    <td>1589.—1596. </td>
+    <td>no 1631. </td>
+    <td>no 1669. </td>
+    <td>no 1681. </td>
+    <td>1755.—1765. </td>
+    <td>1765.—1780. </td>
+    <td>1780.—1787. </td>
+    <td>no 1788. </td>
+    <td>līdz 1804. </td>
+	</tr>
+	<tr>
+	<td>mācību pārzinis (scholasticus) Domkapitula kanoniķis Heinrihs</td>
+	<td>rektors Jakobs Batuss (Jacobus Battus, miris 1546)</td>
+	<td>rektors Retgers Pistorijs (Bekers)</td>
+	<td>rektors Hermanis Vilkens (Vilikinds, Vitekinds)</td>
+	<td>rektors Georgs Marsovs</td>
+	<td>rektors Heinrihs Mellers</td>
+	<td>rektors un inspektors Johans Rīvijs</td>
+	<td>ģimnāzijas inspektors Hermanis Samsons</td>
+	<td>rektors Georgs Lauterbahs</td>
+	<td>rektors Mihaels Pinsderfers (Pinsdörffer)</td>
+	<td>rektors un inspektors Johans Gothelfs Lindners</td>
+	<td>rektors Gotlībs Šlēgels</td>
+	<td>rektors Karls Filips Mihaels Snells</td>
+	<td>rektors Kārlis Gotlobs Zontāgs</td>
+	<td>rektors Johans Augusts Albanuss</td>
+	</tr>
 <footer>
   <p>Footer</p>
 </footer>
