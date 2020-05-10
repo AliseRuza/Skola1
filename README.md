@@ -62,6 +62,7 @@ footer {
   margin-left:4px;
   margin-right:4px;
   height:4em
+  display: block;
 }
 parent {
    min-height:100%;
