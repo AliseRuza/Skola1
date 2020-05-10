@@ -87,15 +87,15 @@ parent {
  Satura rādītājs  
   <nav>
     <ol>
-      <li><a href="#">Vēsture</a></li>
-      <li><a href="#">Skolas nosaukumu maiņas</a></li>
-      <li><a href="#">Zināmie skolas vadītāji (1229—1804)</a></li>
-	  <li><a href="#">Skolas absolventi</a></li>
+      <li><a href="#vesture">Vēsture</a></li>
+      <li><a href="#nosaukumi">Skolas nosaukumu maiņas</a></li>
+      <li><a href="#vaditaji">Zināmie skolas vadītāji (1229—1804)</a></li>
+	  <li><a href="#absolventi">Skolas absolventi</a></li>
     </ol>
   </nav>
   
   <article>
-    <div><h1>Vēsture</h1>
+    <div><h1 id="vesture">Vēsture</h1>
     <p><body rightmargiin="10">Rīgas Valsts 1. ģimnāzija (saīsinājumā RV1Ģ vai RV1.ģ) ir vispārējās pamata un vidējās izglītības iestāde Rīgā. Tā ir pilsētas senākā skola. Ģimnāzija specializējas matemātikas un valodu padziļinātā apgūšanā. Mācības šajā skolā notiek latviešu valodā.
     <p>Kopš 1996. gada ģimnāzija piedalās Starptautiskā bakalaurāta mācību programmas realizācijas projektā. Skolai kā pirmajai Latvijā dibināta absolventu un draugu biedrība ar mērķi finansiāli atbalstīt skolu. Skolā darbojas jauniešu koris "Kamēr...". Kopš 2009. gada Draudzīgā aicinājuma fonda skolu reitingā un kopš 2013. gada Ata Kronvalda fonda Latvijas skolu reitingā Rīgas Valsts 1. ģimnāzija ieņem pirmo vietu ģimnāziju un lielo skolu grupā.</p>
     <p>Lai iegūtu vietu skolā, ir jāiztur matemātikas konkurss, kurā uz vienu vietu pretendē 8-10 skolēni. 9. klases noslēgumā skolēniem jāiztur vēl viens matemātikas konkurss, lai saglabātu vietu skolā. 2019. gadā konkursam uz 10. klasi pieteicās vairāk nekā tūkstoš Latvijas 9. klašu skolēnu.</p>
@@ -106,7 +106,7 @@ parent {
     <p>1787. gada 12. jūlijā pēc Krievijas ķeizarienes Katrīnas II rīkojuma tika svinīgi atklāta jaunā ģimnāzijas — Rīgas liceja — ēka Pils laukumā 2 (ēka celta 1785.—1787. gadā, arhitekts Matiass Šonss). 1804. gadā Vidzemes guberņas izglītības reformu laikā Domskolu pārveidoja par Rīgas apriņķa galveno mācību iestādi — Rīgas 1. apriņķa skolu, 1861. gadā — par Rīgas reālģimnāziju, kurā mācījās arī Vilhelms Ostvalds (1864—1871), bet 1873. gadā — par Rīgas Pilsētas ģimnāziju. Publiskai apskatei Rīgas pilsētas reālģimnāzijā 1869. gadā atklāja Rīgas pilsētas gleznu galeriju. 1874. gadā pēc Rīgas galvenā arhitekta Johana Daniela Felsko projekta tika uzcelta tagadējā skolas ēka Raiņa bulvārī 8. Rīgas pilsētas gleznu galerija 1879. gadā tika pārcelta uz netālo Kerkoviusa namu (tagad Kalpaka bulvārī 4). Vecā skolas ēka pie Doma baznicas tika nojaukta 1888. gadā, būvējot pilsētas muzeju. Šajā laikā skolā mācījušies Jānis Pliekšāns, Pēteris Stučka un citi vēlākie latviešu sabiedriskie darbinieki.</p>
 	<p>Rusifikācijas periodā 1894. gadā skolu pārveidoja par klasisko ģimnāziju, vēlāk — par valsts ģimnāziju (Государственная гимназия) ar krievu mācību valodu. 1919. gadā Stučkas valdība pārdēvēja to par Rīgas 1. vidusskolu ar latviešu mācību valodu, Latvijas Republikas laikā tika atjaunota Rīgas pilsētas 1. ģimnāzija, kuras direktors ilgu laiku bija Jānis Stiprais (1922–1935), tad Jānis Lapiņš (1935—1939). Pēc Latvijas okupācijas skolu atkal pārdēvēja par Rīgas 1. vidusskolu un 1944. gadā nosauca tās pirmā direktora Leona Paegles vārdā.</p>
 	<p>Pēc Latvijas Republikas atjaunošanas skola atguva Rīgas 1. ģimnāzijas vārdu, bet kopš 1996. gada tiek dēvēta par Rīgas Valsts 1. ģimnāziju. Meklējot datus par skolas vēsturi, jāņem vērā, ka laika posmā, kad skolu sauca par Rīgas pilsētas 1. ģimnāziju, pastāvēja arī Rīgas Valsts 1. ģimnāzija, kas nav saistīta ar šajā rakstā minēto skolu.</p>
-	<div><h1>Skolas nosaukumu maiņa</h1>
+	<div><h1 id="nosaukumi">Skolas nosaukumu maiņa</h1>
 	<p>Pēc Latvijas Valsts arhīva datiem, Rīgas Valsts 1. ģimnāzija piedzīvojusi vismaz 15 dažādus nosaukumus:</p>
 	<ul type="circle"> 
 	<li> 1211.—1528. — Domkapitula klostera skola </li>
@@ -125,7 +125,7 @@ parent {
 	<li> 1990.—1996. — Rīgas 1. ģimnāzija </li>
 	<li> 1996.—pašlaik — Rīgas Valsts 1. ģimnāzija </li>
 	</ul>
-    <div><h1>Zināmie skolas vadītāji (1229—1804)</h1> </div>
+    <div><h1 id="vaditaji">Zināmie skolas vadītāji (1229—1804)</h1> </div>
 	<table>
 	<tr>
     <th>Laiks</th>
@@ -192,7 +192,7 @@ parent {
 	<td>rektors Johans Augusts Albanuss</td>
 	</tr>
 	<tr>
-	<div><h1>Skolas absolventi</h1></div>
+	<div><h1 id="absolventi">Skolas absolventi</h1></div>
 <footer>
   <p>Footer</p>
 </footer>
