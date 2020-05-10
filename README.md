@@ -134,6 +134,23 @@ footer {
     <p>1780.—1787. </p>
     <p>no 1788. </p>
     <p>līdz 1804. </p>
+	<div class="collumn" style="background colour:#aaa;">
+	<h2> Personas </h2>
+	<p>mācību pārzinis (scholasticus) Domkapitula kanoniķis Heinrihs</p>
+	<p>rektors Jakobs Batuss (Jacobus Battus, miris 1546)</p>
+	<p>rektors Retgers Pistorijs (Bekers)</p>
+	<p>rektors Hermanis Vilkens (Vilikinds, Vitekinds)</p>
+	<p>rektors Georgs Marsovs</p>
+	<p>rektors Heinrihs Mellers</p>
+	<p>rektors un inspektors Johans Rīvijs</p>
+	<p>ģimnāzijas inspektors Hermanis Samsons</p>
+	<p>rektors Georgs Lauterbahs</p>
+	<p>rektors Mihaels Pinsderfers (Pinsdörffer)</p>
+	<p>rektors un inspektors Johans Gothelfs Lindners</p>
+	<p>rektors Gotlībs Šlēgels</p>
+	<p>rektors Karls Filips Mihaels Snells</p>
+	<p>rektors Kārlis Gotlobs Zontāgs</p>
+	<p>rektors Johans Augusts Albanuss</p>
 	
 <footer>
   <p>Footer</p>
