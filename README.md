@@ -87,10 +87,38 @@ Satura rādītājs
   </nav>
   
   <article>
-    <div><h1>Vēsture</h1></div>
+    <div><h1>Vēsture</h1>
     <p><body rightmargiin="10">Rīgas Valsts 1. ģimnāzija (saīsinājumā RV1Ģ vai RV1.ģ) ir vispārējās pamata un vidējās izglītības iestāde Rīgā. Tā ir pilsētas senākā skola. Ģimnāzija specializējas matemātikas un valodu padziļinātā apgūšanā. Mācības šajā skolā notiek latviešu valodā. </p>
-    <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
-  </article>
+    <p>Kopš 1996. gada ģimnāzija piedalās Starptautiskā bakalaurāta mācību programmas realizācijas projektā. Skolai kā pirmajai Latvijā dibināta absolventu un draugu biedrība ar mērķi finansiāli atbalstīt skolu. Skolā darbojas jauniešu koris "Kamēr...". Kopš 2009. gada Draudzīgā aicinājuma fonda skolu reitingā un kopš 2013. gada Ata Kronvalda fonda Latvijas skolu reitingā Rīgas Valsts 1. ģimnāzija ieņem pirmo vietu ģimnāziju un lielo skolu grupā.</p>
+    <p>Lai iegūtu vietu skolā, ir jāiztur matemātikas konkurss, kurā uz vienu vietu pretendē 8-10 skolēni. 9. klases noslēgumā skolēniem jāiztur vēl viens matemātikas konkurss, lai saglabātu vietu skolā. 2019. gadā konkursam uz 10. klasi pieteicās vairāk nekā tūkstoš Latvijas 9. klašu skolēnu.</p>
+    <p>Skolas pastāvēšanai iespējams izsekot līdz pat 1211. gadam, kad bīskaps Alberts Rīgā nodibināja Svētās Marijas katedrāli un pie tās — Livonijas bīskapijas domkapitula klosteri. Kādā 1239. gada 19. aprīļa dokumentā minēts, ka domkapitula sholastiķis (mācību pārzinis) bijis kanoniķis Heinrihs, kas uzskatāms par pirmo zināmo Rīgas Doma klostera skolas vadītāju. Skola atradās Doma baznīcas krustejā un bija paredzēta katoļu garīdznieku sagatavošanai. Tās mācību programma atbilstoši viduslaiku latīņu skolu tradīcijai bija sadalīta triviuma ciklā — gramatika, retorika un dialektika. 1524. gadā luterāņu sarīkotajos baznīcu grautiņos katoļu Doma klostera skolu slēdza. 1528. gadā Rīgas rāte skolu no jauna atvēra kā laicīgu pilsētas otrās pakāpes skolu un par Domskolas pirmo rektoru iecēla Nīderlandes kalvinistu sludinātāju Jākobu Batusu (Jacobus Battus, miris 1546. gadā). Pēc viņa Domskolas rektori bija Retgers Pistorijs (no 1538) un Hermanis Vilkens (1554—1561), vēlākais Heidelbergas Universitātes rektors, kas savās publikācijās par burvestībām pieminējis Rīgas apkārtnes vilkačus. Skolā bija trīs klases, kurās mācīja klasiskās valodas, gatavojot tālākām studijām universitātēs. </p>
+    <p>Zviedru Vidzemes laikā ar Zviedrijas karaļa Gustava II Ādolfa lēmumu 1631. gadā uz Doma skolas bāzes izveidoja Rīgas Akadēmisko ģimnāziju. Tajā bija trīs augstākās klases, kurās uzņēma pēc piecu klašu Domskolas beigšanas.</p>
+    <p>Pirmie ģimnāzijas profesori bija Hermanis Samsons (ģimnāzijas inspektors), Johans Struborgs un Johans Hēfelns, vēlākie profesori bija Johans Brēvers (filozofija, vēsture, teoloģija), Johans Rihmanis (filozofija), Henings Vite (retorika un vēsture), Johans Pauls Mellers (jurisprudence un matemātika), kas ģimnāzijā izveidoja observatoriju ar diviem teleskopiem. </p>
+	<p>Ģimnāzijā tika rīkoti publiski disputi un priekšlasījumi, kas saglabājušies līdz mūsu dienām. 1656. gadā ģimnāzijas ēka Otrā Ziemeļu kara laikā krievu bombardēšanas dēļ tika nopostīta, un 1675. gadā Zviedrijas karalis Kārlis XI nodibināja otru pilsētas ģimnāziju — Kārļa liceju (latīniski: Schola Carolina), kas atradās pie Sv. Jēkaba baznīcas. Rīgas Akadēmiskā ģimnāzija pie Rīgas Doma darbu atsāka 1678. gadā. Pēc Rīgas ieņemšanas Lielā Ziemeļu kara laikā 1711. gadā ģimnāzijas klases tika slēgtas, tomēr turpināja darboties Rīgas Domskola, kurā pakāpeniski atjaunojās klasiskās ģimnāzijas tradīcijas. Šajā periodā skolā strādāja vēlākais filozofs Johans Gotfrīds Herders (1764—1769) un rektora amatā bija ievērojamie apgaismības laikmeta darbinieki Karls Filips Mihaels Snells (1780—1787) un Kārlis Gotlobs Zontāgs (no 1788).</p>
+    <p>1787. gada 12. jūlijā pēc Krievijas ķeizarienes Katrīnas II rīkojuma tika svinīgi atklāta jaunā ģimnāzijas — Rīgas liceja — ēka Pils laukumā 2 (ēka celta 1785.—1787. gadā, arhitekts Matiass Šonss). 1804. gadā Vidzemes guberņas izglītības reformu laikā Domskolu pārveidoja par Rīgas apriņķa galveno mācību iestādi — Rīgas 1. apriņķa skolu, 1861. gadā — par Rīgas reālģimnāziju, kurā mācījās arī Vilhelms Ostvalds (1864—1871), bet 1873. gadā — par Rīgas Pilsētas ģimnāziju. Publiskai apskatei Rīgas pilsētas reālģimnāzijā 1869. gadā atklāja Rīgas pilsētas gleznu galeriju. 1874. gadā pēc Rīgas galvenā arhitekta Johana Daniela Felsko projekta tika uzcelta tagadējā skolas ēka Raiņa bulvārī 8. Rīgas pilsētas gleznu galerija 1879. gadā tika pārcelta uz netālo Kerkoviusa namu (tagad Kalpaka bulvārī 4). Vecā skolas ēka pie Doma baznicas tika nojaukta 1888. gadā, būvējot pilsētas muzeju. Šajā laikā skolā mācījušies Jānis Pliekšāns, Pēteris Stučka un citi vēlākie latviešu sabiedriskie darbinieki.</p>
+	<p>Rusifikācijas periodā 1894. gadā skolu pārveidoja par klasisko ģimnāziju, vēlāk — par valsts ģimnāziju (Государственная гимназия) ar krievu mācību valodu. 1919. gadā Stučkas valdība pārdēvēja to par Rīgas 1. vidusskolu ar latviešu mācību valodu, Latvijas Republikas laikā tika atjaunota Rīgas pilsētas 1. ģimnāzija, kuras direktors ilgu laiku bija Jānis Stiprais (1922–1935), tad Jānis Lapiņš (1935—1939). Pēc Latvijas okupācijas skolu atkal pārdēvēja par Rīgas 1. vidusskolu un 1944. gadā nosauca tās pirmā direktora Leona Paegles vārdā.</p>
+	<p>Pēc Latvijas Republikas atjaunošanas skola atguva Rīgas 1. ģimnāzijas vārdu, bet kopš 1996. gada tiek dēvēta par Rīgas Valsts 1. ģimnāziju. Meklējot datus par skolas vēsturi, jāņem vērā, ka laika posmā, kad skolu sauca par Rīgas pilsētas 1. ģimnāziju, pastāvēja arī Rīgas Valsts 1. ģimnāzija, kas nav saistīta ar šajā rakstā minēto skolu.</p>
+	</div>
+	<div><h1>Skolas nosaukumu maiņa</h1>
+	<p>Pēc Latvijas Valsts arhīva datiem, Rīgas Valsts 1. ģimnāzija piedzīvojusi vismaz 15 dažādus nosaukumus:</p>
+	<ul type="circle"> 
+	<li> 1211.—1528. — Domkapitula klostera skola </li>
+	<li> 1528.—1631. — Rīgas pilsētas Domskola </li>
+	<li> 1631.—1710. — Rīgas Akadēmiskā ģimnāzija </li>
+	<li> 1711.—1804. — Rīgas Domskola (klasiskā ģimnāzija)</li>
+	<li> 1804.—1860. — Rīgas 1. apriņķa skola </li>
+	<li> 1861.—1873. — Rīgas Reālģimnāzija </li>
+	<li> 1873.—1894. — Rīgas Pilsētas ģimnāzija ar reālskolas un ģimnāzijas klasēm </li>
+	<li> 1894.—1895. — 8 klašu klasiskā ģimnāzija </li>
+	<li> 1896.—1919. — Valsts ģimnāzija </li>
+	<li> 1919.—1920. — 1. vidusskola </li>
+	<li> 1920.—1940. — Rīgas pilsētas 1. ģimnāzija </li>
+	<li> 1940.—1944. — Rīgas 1. vidusskola </li>
+	<li> 1944.—1990. — Ar Darba Sarkanā Karoga ordeni apbalvotā Rīgas L. Paegles 1. vidusskola </li>
+	<li> 1990.—1996. — Rīgas 1. ģimnāzija </li>
+	<li> 1996.—pašlaik — Rīgas Valsts 1. ģimnāzija </li>
+	</ul>
+ </article>
 </section>
 
 <footer>
