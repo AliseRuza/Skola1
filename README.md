@@ -183,12 +183,7 @@ footer {
 	<td>rektors Johans Augusts Albanuss</td>
 	</tr>
 	<tr>
-
-
-	<td>rektors Karls Filips Mihaels Snells</td>
-	<td>rektors Kārlis Gotlobs Zontāgs</td>
-	<td>rektors Johans Augusts Albanuss</td>
-	</tr>
+   </table>
 <footer>
   <p>Footer</p>
 </footer>
