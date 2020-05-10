@@ -75,14 +75,14 @@ footer {
 </header>
 
 <section>
-<h1> Satura rādītājs </h1>
+ Satura rādītājs  
   <nav>
-    <ul>
+    <ol>
       <li><a href="#">Vēsture</a></li>
       <li><a href="#">Skolas nosaukumu maiņas</a></li>
       <li><a href="#">Zināmie skolas vadītāji (1229—1804)</a></li>
 	  <li><a href="#">Skolas absolventi</a></li>
-    </ul>
+    </ol>
   </nav>
   
   <article>
@@ -117,7 +117,8 @@ footer {
 	<li> 1990.—1996. — Rīgas 1. ģimnāzija </li>
 	<li> 1996.—pašlaik — Rīgas Valsts 1. ģimnāzija </li>
 	</ul>
-
+    <div><h1>Zināmie skolas vadītāji (1229—1804)</h1> </div>
+	
 <footer>
   <p>Footer</p>
 </footer>
