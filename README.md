@@ -183,7 +183,6 @@ footer {
 	<td>rektors Johans Augusts Albanuss</td>
 	</tr>
 	<tr>
-   </table>
 <footer>
   <p>Footer</p>
 </footer>
