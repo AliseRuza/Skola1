@@ -192,6 +192,7 @@ parent {
 	<td>rektors Johans Augusts Albanuss</td>
 	</tr>
 	<tr>
+	<div>Skolas absolventi</div>
 <footer>
   <p>Footer</p>
 </footer>
