@@ -33,7 +33,7 @@ nav {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  background-image:url('images/skola.jpg');
+  background-image:src="images\skola.jpg";
   padding: 20px;
 }
 
