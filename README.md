@@ -117,6 +117,23 @@ footer {
 	<li> 1996.—pašlaik — Rīgas Valsts 1. ģimnāzija </li>
 	</ul>
     <div><h1>Zināmie skolas vadītāji (1229—1804)</h1> </div>
+	<div class="collumn">
+	<h2> Laiks </h2>
+	<p> ap 1239. </p>
+    <p>1528.—1538. </p>
+    <p>no 1538. </p>
+    <p>1554.—1561. </p>
+    <p>ap 1576. </p>
+    <p>1579.—1589. </p>
+    <p>1589.—1596. </p>
+    <p>no 1631. </p>
+    <p>no 1669. </p>
+    <p>no 1681. </p>
+    <p>1755.—1765. </p>
+    <p>1765.—1780. </p>
+    <p>1780.—1787. </p>
+    <p>no 1788. </p>
+    <p>līdz 1804. </p>
 	
 <footer>
   <p>Footer</p>
