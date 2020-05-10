@@ -124,34 +124,67 @@ footer {
   </tr>
 	<tr>
 	<td> ap 1239. </td>
-    <td>1528.—1538. </td>
-    <td>no 1538. </td>
-    <td>1554.—1561. </td>
-    <td>ap 1576. </td>
-    <td>1579.—1589. </td>
-    <td>1589.—1596. </td>
-    <td>no 1631. </td>
-    <td>no 1669. </td>
-    <td>no 1681. </td>
-    <td>1755.—1765. </td>
-    <td>1765.—1780. </td>
-    <td>1780.—1787. </td>
-    <td>no 1788. </td>
-    <td>līdz 1804. </td>
+	<td>mācību pārzinis (scholasticus) Domkapitula kanoniķis Heinrihs</td>
 	</tr>
 	<tr>
-	<td>mācību pārzinis (scholasticus) Domkapitula kanoniķis Heinrihs</td>
+    <td>1528.—1538. </td>
 	<td>rektors Jakobs Batuss (Jacobus Battus, miris 1546)</td>
+	</tr>
+	<tr>
+    <td>no 1538. </td>
 	<td>rektors Retgers Pistorijs (Bekers)</td>
+	</tr>
+	<tr>
+    <td>1554.—1561. </td>
 	<td>rektors Hermanis Vilkens (Vilikinds, Vitekinds)</td>
+	</tr>
+	<tr>
+    <td>ap 1576. </td>
 	<td>rektors Georgs Marsovs</td>
+	</tr>
+	<tr>
+    <td>1579.—1589. </td>
 	<td>rektors Heinrihs Mellers</td>
+	</tr>
+	<tr>
+    <td>1589.—1596. </td>
 	<td>rektors un inspektors Johans Rīvijs</td>
+	</tr>
+	<tr>
+    <td>no 1631. </td>
 	<td>ģimnāzijas inspektors Hermanis Samsons</td>
+	</tr>
+	<tr>
+    <td>no 1669. </td>
 	<td>rektors Georgs Lauterbahs</td>
-	<td>rektors Mihaels Pinsderfers (Pinsdörffer)</td>
-	<td>rektors un inspektors Johans Gothelfs Lindners</td>
+	</tr>
+	<tr>
+    <td>no 1681. </td>
+	<td>rektors Mihaels Pinsderfers (Pinsdörffer) </td>
+	</tr>
+	<tr>
+    <td>1755.—1765. </td>
+    <td>rektors un inspektors Johans Gothelfs Lindners</td>
+	</tr>
+	<tr>
+    <td>1765.—1780. </td>
 	<td>rektors Gotlībs Šlēgels</td>
+	</tr>
+	<tr>
+    <td>1780.—1787. </td>
+	<td>rektors Karls Filips Mihaels Snells</td>
+	</tr>
+	<tr>
+	<td>no 1788. </td>
+	<td>rektors Kārlis Gotlobs Zontāgs</td>
+	</tr>
+	<tr>
+	<td>līdz 1804. </td>
+	<td>rektors Johans Augusts Albanuss</td>
+	</tr>
+	<tr>
+
+
 	<td>rektors Karls Filips Mihaels Snells</td>
 	<td>rektors Kārlis Gotlobs Zontāgs</td>
 	<td>rektors Johans Augusts Albanuss</td>
