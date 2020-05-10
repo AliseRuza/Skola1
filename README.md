@@ -193,6 +193,7 @@ parent {
 	</tr>
 	<tr>
 	<div><h1 id="absolventi">Skolas absolventi</h1></div>
+	<p><a href="https://enciklopedija.lv/skirklis/55869-Rainis">Uzzini vairāk par Rainis ŠEIT</a></p>
 <footer>
   <p>Footer</p>
 </footer>
